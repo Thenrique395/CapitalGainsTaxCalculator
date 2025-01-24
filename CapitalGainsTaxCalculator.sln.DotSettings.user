@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABooleanAsserts_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fbfff78ecaa39c818519fc918bb2d4bbdca6ad93d7170f5cf325f67ccd0b97d43_003FBooleanAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADecimal_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F6d2342c247c64eb7a9b3702e481e4443f83e00_003F5b_003F535a24a7_003FDecimal_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEqualityAsserts_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fad8b2779652854276d03ec153d51377686c7193799d1688e119272770d0cf_003FEqualityAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AList_00601_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F6d2342c247c64eb7a9b3702e481e4443f83e00_003Fbf_003F9a6d6c6b_003FList_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c660eba_002D9388_002D4c85_002Dbe5e_002D50671ed366da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestBuyOperationTax" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculator.Tests.UnitTests.OperationTests.TestBuyOperationTax&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5eca0684_002Dfadc_002D4f9d_002D9454_002D92a29113db33/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FullTaxCalculationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculator.Tests.IntegrationTests.FullTaxCalculationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a45d2b66_002D5de4_002D4f9b_002D8b9b_002Df15d8cc3a54c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FullTaxCalculationTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculator.Tests.IntegrationTests.FullTaxCalculationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b6f3b390_002De715_002D4b49_002D9dca_002Df3d1f0c49a30/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestTaxCalculationForSingleBuySingleSellOperation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculatorTest.IntegrationTests.FullTaxCalculationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculatorTest.UnitTests.OperationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculatorTest.UnitTests.TaxStrategyTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c84d29b2_002Dc265_002D4d14_002Da791_002D474adf166927/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestTaxCalculationForMultipleBuySellOperationsWithProfit" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::58B1A390-4D32-4868-96C1-5819684962F9::net9.0::CapitalGainsTaxCalculator.Tests.IntegrationTests.FullTaxCalculationTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e49960a5_002D97ee_002D4033_002D94ea_002D197e2b98efb2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OperationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculatorTest" Presentation="&amp;lt;CapitalGainsTaxCalculatorTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

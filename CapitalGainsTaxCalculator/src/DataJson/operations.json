@@ -1,0 +1,102 @@
+[
+  {
+    "unitCost": 100.00,
+    "quantity": 50,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 150.00,
+    "quantity": 30,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 200.00,
+    "quantity": 10,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 250.00,
+    "quantity": 20,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 120.00,
+    "quantity": 15,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 180.00,
+    "quantity": 25,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 110.00,
+    "quantity": 35,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 160.00,
+    "quantity": 40,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 90.00,
+    "quantity": 60,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 130.00,
+    "quantity": 45,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 220.00,
+    "quantity": 20,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 240.00,
+    "quantity": 30,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 130.00,
+    "quantity": 40,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 170.00,
+    "quantity": 50,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 140.00,
+    "quantity": 60,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 190.00,
+    "quantity": 30,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 100.00,
+    "quantity": 20,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 200.00,
+    "quantity": 10,
+    "taxStrategy": "Sell"
+  },
+  {
+    "unitCost": 160.00,
+    "quantity": 50,
+    "taxStrategy": "Buy"
+  },
+  {
+    "unitCost": 180.00,
+    "quantity": 40,
+    "taxStrategy": "Sell"
+  }
+]

@@ -1,0 +1,17 @@
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.csproj.AssemblyReference.cache
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.AssemblyInfoInputs.cache
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.AssemblyInfo.cs
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.csproj.CoreCompileInputs.cache
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/CapitalGainsTaxCalculator
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/CapitalGainsTaxCalculator.deps.json
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/CapitalGainsTaxCalculator.runtimeconfig.json
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/CapitalGainsTaxCalculator.dll
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/CapitalGainsTaxCalculator.pdb
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalG.BFE4F17A.Up2Date
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.dll
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/refint/CapitalGainsTaxCalculator.dll
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.pdb
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/CapitalGainsTaxCalculator.genruntimeconfig.cache
+/Users/henriquesantos/Desktop/code/CapitalGainsTaxCalculator/CapitalGainsTaxCalculator/obj/Debug/net9.0/ref/CapitalGainsTaxCalculator.dll
